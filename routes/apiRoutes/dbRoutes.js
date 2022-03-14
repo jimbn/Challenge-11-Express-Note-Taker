@@ -21,9 +21,15 @@ router.post('/notes', (req,res) => {
     res.send(db);
 });
 
-// router.delete('/notes', (req,res) = {
-
-// })
+router.delete('/notes/:id', (req,res) => {
+    let noteId = req.params.id;
+    let filteredNotes = db.filter((db) => db.id != noteId);
+    fs.writeFileSync(
+        path.join(__dirname, '../../db/db.json'),
+        JSON.stringify(filteredNotes, null, 2)
+    );
+    res.send(db);
+});
 
 
 module.exports = router;

@@ -1,43 +1,7 @@
 [
   {
-    "title": "Test Title",
-    "text": "Test text"
-  },
-  {
-    "id": "c0eef255-ccb7-473c-96e9-f10818733b91",
-    "title": "Test 1",
-    "text": "Hello World. Number 1\n"
-  },
-  {
-    "title": "Test 2",
-    "text": "asgaijf;aosjker"
-  },
-  {
-    "id": {
-      "NIL": "00000000-0000-0000-0000-000000000000"
-    },
-    "title": "Test 3",
-    "text": "a;lskdfj;asgasfr"
-  },
-  {
-    "id": {
-      "NIL": "00000000-0000-0000-0000-000000000000"
-    },
-    "title": "Test 3",
-    "text": "a;lskdfj;asgasfr"
-  },
-  {
-    "id": {
-      "NIL": "00000000-0000-0000-0000-000000000000"
-    },
-    "title": "Test 5",
-    "text": ";lakjsdf"
-  },
-  {
-    "id": {
-      "NIL": "00000000-0000-0000-0000-000000000000"
-    },
-    "title": "Test 6",
-    "text": "asdf"
+    "id": "b5364e25-b1a9-4dd7-997b-642b7364949a",
+    "title": "Test 123",
+    "text": "a;dlfskjag"
   }
 ]
